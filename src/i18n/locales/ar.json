@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "about": "من نحن",
+    "contact": "تواصل معنا",
+    "cart": "السلة",
+    "login": "تسجيل الدخول",
+    "search": "بحث"
+  },
+  "home": {
+    "newCollection": "تشكيلة جديدة",
+    "newCollectionDesc": "اكتشف أحدث القطع المصممة للحركة والثقة الهادئة.",
+    "shopNow": "تسوق الآن",
+    "thisWeek": "جديد هذا الأسبوع",
+    "viewAll": "عرض الكل",
+    "collections": "التشكيلات",
+    "approach": "نهجنا في تصميم الأزياء"
+  },
+  "product": {
+    "addToCart": "أضف إلى السلة",
+    "addToWishlist": "أضف إلى المفضلة",
+    "outOfStock": "غير متوفر",
+    "filters": "الفلاتر",
+    "category": "الفئة",
+    "priceRange": "نطاق السعر",
+    "sortBy": "ترتيب حسب",
+    "newest": "الأحدث",
+    "priceLowHigh": "السعر: من الأقل إلى الأعلى",
+    "priceHighLow": "السعر: من الأعلى إلى الأقل",
+    "noResults": "لا توجد منتجات تطابق الفلاتر",
+    "relatedProducts": "قد يعجبك أيضاً"
+  },
+  "cart": {
+    "title": "سلتك",
+    "empty": "سلتك فارغة",
+    "subtotal": "الإجمالي الفرعي",
+    "checkout": "الدفع",
+    "remove": "إزالة",
+    "quantity": "الكمية"
+  },
+  "checkout": {
+    "title": "الدفع",
+    "fullName": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "address": "العنوان",
+    "city": "المدينة",
+    "postalCode": "الرمز البريدي",
+    "phone": "رقم الهاتف",
+    "placeOrder": "إتمام الطلب",
+    "orderSuccess": "تم تقديم طلبك بنجاح"
+  },
+  "auth": {
+    "loginTitle": "مرحباً بعودتك",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "noAccount": "ليس لديك حساب؟",
+    "signUp": "إنشاء حساب"
+  },
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ ما",
+    "currency": "$"
+  }
+}

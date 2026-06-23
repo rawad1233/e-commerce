@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart",
+    "login": "Login",
+    "search": "Search"
+  },
+  "home": {
+    "newCollection": "New Collection",
+    "newCollectionDesc": "Discover the latest arrivals built for movement and quiet confidence.",
+    "shopNow": "Shop Now",
+    "thisWeek": "New This Week",
+    "viewAll": "View All",
+    "collections": "Collections",
+    "approach": "Our Approach to Fashion Design"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Add to Wishlist",
+    "outOfStock": "Out of Stock",
+    "filters": "Filters",
+    "category": "Category",
+    "priceRange": "Price Range",
+    "sortBy": "Sort By",
+    "newest": "Newest",
+    "priceLowHigh": "Price: Low to High",
+    "priceHighLow": "Price: High to Low",
+    "noResults": "No products match your filters",
+    "relatedProducts": "You May Also Like"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "fullName": "Full Name",
+    "email": "Email",
+    "address": "Address",
+    "city": "City",
+    "postalCode": "Postal Code",
+    "phone": "Phone Number",
+    "placeOrder": "Place Order",
+    "orderSuccess": "Your order has been placed successfully"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "email": "Email",
+    "password": "Password",
+    "loginButton": "Log In",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "currency": "$"
+  }
+}

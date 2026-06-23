@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "title": "Oversized Wool Coat",
+      "category": "outerwear",
+      "price": 189,
+      "salePrice": null,
+      "colors": ["camel", "black"],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 24,
+      "rating": 4.6,
+      "images": ["https://picsum.photos/seed/coat1/600/800"],
+      "description": "A relaxed-fit wool coat with structured shoulders."
+    },
+    {
+      "id": "p2",
+      "title": "Ribbed Knit Sweater",
+      "category": "knitwear",
+      "price": 79,
+      "salePrice": 59,
+      "colors": ["ivory", "forest"],
+      "sizes": ["XS", "S", "M", "L"],
+      "stock": 40,
+      "rating": 4.3,
+      "images": ["https://picsum.photos/seed/sweater1/600/800"],
+      "description": "Soft ribbed knit with a relaxed crew neck."
+    },
+    {
+      "id": "p3",
+      "title": "Tailored Linen Trousers",
+      "category": "bottoms",
+      "price": 95,
+      "salePrice": null,
+      "colors": ["sand", "navy"],
+      "sizes": ["28", "30", "32", "34"],
+      "stock": 15,
+      "rating": 4.1,
+      "images": ["https://picsum.photos/seed/trousers1/600/800"],
+      "description": "Lightweight linen trousers with a tailored taper."
+    },
+    {
+      "id": "p4",
+      "title": "Cotton Poplin Shirt",
+      "category": "tops",
+      "price": 65,
+      "salePrice": null,
+      "colors": ["white", "blue"],
+      "sizes": ["S", "M", "L"],
+      "stock": 0,
+      "rating": 4.0,
+      "images": ["https://picsum.photos/seed/shirt1/600/800"],
+      "description": "Crisp poplin shirt with a classic collar."
+    }
+  ],
+  "users": [
+    { "id": "u1", "name": "Test User", "email": "test@example.com", "password": "password123" }
+  ],
+  "orders": []
+}
