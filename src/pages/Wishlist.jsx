@@ -11,6 +11,8 @@ const Wishlist = () => {
   const dispatch = useAppDispatch();
   const items = useAppSelector(selectWishlistItems);
 
+  const name = "";
+
   if (!items.length) {
     return (
       <div className="max-w-7xl mx-auto px-6 lg:px-10 py-20 text-center">
