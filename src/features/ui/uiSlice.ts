@@ -1,6 +1,11 @@
 import { createSlice } from '@reduxjs/toolkit';
 
-const initialState = {
+interface UiState {
+  mobileMenuOpen: boolean;
+  searchOpen: boolean;
+}
+
+const initialState: UiState = {
   mobileMenuOpen: false,
   searchOpen: false,
 };

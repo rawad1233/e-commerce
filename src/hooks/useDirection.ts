@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 
-export const useDirection = () => {
+export const useDirection = (): void => {
   const { i18n } = useTranslation();
 
   useEffect(() => {

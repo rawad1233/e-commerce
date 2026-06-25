@@ -21,7 +21,7 @@ const Home = () => {
 
   useEffect(() => {
     dispatch(getProducts({ limit: 20 }));
-  }, [dispatch]);
+  }, [Dispatch]);
 
   const totalPages = Math.ceil(items.length / PAGE_SIZE);
   const pageItems = items.slice(page * PAGE_SIZE, page * PAGE_SIZE + PAGE_SIZE);
